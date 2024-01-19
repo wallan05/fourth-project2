@@ -1,0 +1,37 @@
+h1{
+    color: blue; text-align: center;
+}
+p,b{
+    color: brown;
+}
+big{
+    color: rgb(51, 0, 255);
+}
+ul{ 
+    text-align: center;   list-style-type: style square;; 
+}
+a{
+    color: rgb(93, 31, 209);
+}
+ol{
+    list-style: number;
+}
+li.special{
+    color: rgb(242, 35, 35);
+}
+.bold{
+    color: dodgerblue;
+}
+*{
+background-color: powderblue
+}
+li{
+    color: blueviolet;
+}
+a:hover{
+    color: red;
+    text-decoration: none;
+}
+h1.special:hover{
+color:darkgreen;    
+}
